@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "This anonymous research artifact accompanies a manuscript under double-anonymized review."
+title: "Reproducibility materials for EV battery process-state representation evaluation"
+type: software
+authors:
+  - family-names: "Authors"
+    given-names: "Anonymous"
+license: MIT
